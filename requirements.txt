@@ -5,7 +5,7 @@ Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 matplotlib==3.0.3
 matplotlib-colorbar==0.3.7
-numpy==1.16.3
+numpy==1.22.0
 opencv-python==4.1.0.25
 packaging==19.0
 passlib==1.7.1
